@@ -13,7 +13,7 @@
 ## O que estou aprendendo 🔗
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4E6969?style=for-the-badge&logo=javascript)
-![React Native](https://img.shields.io/badge/React-Native-4E6969?style=for-the-badge&logo=react)
+![React_Native](https://img.shields.io/badge/React-Native-4E6969?style=for-the-badge&logo=react)
 ![Python](https://img.shields.io/badge/Python-4E6969?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-4E6969?style=for-the-badge&logo=mysql)
 
