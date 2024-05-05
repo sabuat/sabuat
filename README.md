@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sabuat
-- 👀 I’m interested in DevOps & Web Creator career
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything that can help me
+- 👀 I’m interested in Data Science & Web Creator career
+- 🌱 I’m currently studying at UFMS
 - 📫 How to reach me sabuaturbina@yahoo.com
 
 ## Conecte-se comigo 🔗
